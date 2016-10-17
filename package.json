@@ -1,0 +1,22 @@
+{
+  "name": "lazyload",
+  "version": "1.0.0",
+  "description": "LazyLoad\r ========",
+  "main": "lazyload.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noppa/lazyload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noppa/lazyload/issues"
+  },
+  "homepage": "https://github.com/noppa/lazyload#readme"
+}
